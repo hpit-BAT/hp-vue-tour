@@ -5,4 +5,4 @@ vue.js 新篇章
 
 > 产品预览图
 
-![kd](https://github.com/hpit-BAT/hp-vue-tour/tree/master/img/1.gif)
+![kd](https://github.com/hpit-BAT/hp-vue-tour/tree/master/screenshots/1.gif)
